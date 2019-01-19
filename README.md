@@ -1,5 +1,5 @@
 # Python-eel-GUI-example-list_my_files-
-A python program displays files in a given directory using the Python eel GUI as the user interface
+A python program that displays files in a given directory using the Python eel GUI as the user interface
 
 Hi, as seen in the description above, this is a small program that makes use of the Python eel chrome gui.
 
@@ -23,4 +23,4 @@ So things are quite simple here, you could enter a directory in the input field 
 
 Actually this is the first repo that i'll be creating and uploading, am looking to use the python eel gui for more complex tasks, as i love the ability for me to easily use HTML/CSS/BOOTSTRAP to suit my needs
 
-PYTHON IS FUN, THANKS TO CHRIS KNOTT FOR CREATING THIS SIMPLE MODULE
+PYTHON IS FUN, A BIG THANKS TO CHRIS KNOTT FOR CREATING THIS SIMPLE MODULE
